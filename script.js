@@ -1,12 +1,3 @@
-const firebaseConfig = {
-    apiKey: "AIzaSyBouYO0HPu1t3QnbCLtBNGkBFHyrlkwUOI",
-    authDomain: "shah-b64ed.firebaseapp.com",
-    databaseURL: "https://shah-b64ed-default-rtdb.firebaseio.com",
-    projectId: "shah-b64ed",
-    storageBucket: "shah-b64ed.appspot.com",
-    messagingSenderId: "302375491140",
-    appId: "1:302375491140:web:76768e55e1f910b6e94e11"
-  };
 
   // Initialize Firebase
   const app = firebase.initializeApp(firebaseConfig);
